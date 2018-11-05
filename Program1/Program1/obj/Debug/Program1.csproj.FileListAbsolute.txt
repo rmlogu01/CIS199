@@ -1,0 +1,9 @@
+C:\Users\rmlogu01\Desktop\CIS199\Labs\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\rmlogu01\Desktop\CIS199\Labs\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\rmlogu01\Desktop\CIS199\Labs\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\rmlogu01\Desktop\CIS199\Labs\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Users\rmlogu01\Desktop\CIS199\Labs\Program1\Program1\obj\Debug\Program1.Program1.resources
+C:\Users\rmlogu01\Desktop\CIS199\Labs\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\rmlogu01\Desktop\CIS199\Labs\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+C:\Users\rmlogu01\Desktop\CIS199\Labs\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\rmlogu01\Desktop\CIS199\Labs\Program1\Program1\obj\Debug\Program1.pdb
