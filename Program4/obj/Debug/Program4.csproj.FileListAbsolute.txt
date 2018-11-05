@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\Program4\bin\Debug\Program4.exe.config
+\\Mac\Home\Desktop\Program4\obj\Debug\Program4.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Program4\obj\Debug\Program4.Program4.resources
+\\Mac\Home\Desktop\Program4\obj\Debug\Program4.Properties.Resources.resources
+\\Mac\Home\Desktop\Program4\obj\Debug\Program4.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Program4\bin\Debug\Program4.exe
+\\Mac\Home\Desktop\Program4\bin\Debug\Program4.pdb
+\\Mac\Home\Desktop\Program4\obj\Debug\Program4.exe
+\\Mac\Home\Desktop\Program4\obj\Debug\Program4.pdb
